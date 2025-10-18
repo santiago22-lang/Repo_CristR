@@ -1,0 +1,21 @@
+.historia { 
+    font-size: 50px;   
+    color: red;
+    margin: 50px;
+
+    font-family:'Times New Roman', Times, serif
+    
+     display: flex; 
+     
+
+}
+header{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.futbol {
+    display: flex;
+    align-items: center;
+}
