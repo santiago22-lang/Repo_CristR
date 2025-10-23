@@ -1,21 +1,147 @@
+
+
 .historia { 
     font-size: 50px;   
-    color: red;
+    color: white;
     margin: 50px;
+   
+}
 
-    font-family:'Times New Roman', Times, serif
-    
-     display: flex; 
-     
+.enlaces{
+font-size: 40px;
 
 }
-header{
-    display: flex;
-    flex-direction: column;
+
+.biografia{
+     font-size: 30px;
+     color: white;
 
 }
+
+.imagen{
+
+  border: 15px solid rgb(148, 148, 196);
+  border-radius: 40px; /* esquinas redondeadas */
+}
+
 
 .futbol {
     display: flex;
     align-items: center;
+
+    
+}
+ 
+body{
+
+background-image: url("https://i.pinimg.com/736x/08/ef/de/08efde7b8d918a1a23f6099f72a6d7fc.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+  
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+
+
+}
+
+.color{
+
+    font-size: 30px;
+     color: rgb(248, 244, 244);
+    margin: 30px;
+}
+
+.liga{ 
+     font-size: 40px;
+     color: white;
+}
+.ligas{
+     font-size: 30px;
+     color: white;
+
+
+}
+
+.titulo{
+
+    font-size: 40px;
+     color: white;
+}
+
+.titulos{
+
+font-size: 30px;
+     color: white;
+
+}
+
+.rojo{
+     font-size: 40px;
+     color:white;
+
+}
+
+table, th, td {
+  border: 1px solid white;
+}
+
+table {
+  width: 100%;
+}
+
+
+.tabla{
+    color: white;
+
+}
+
+.azul{
+
+    font-size: 30px;
+    color: white;
+
 }
